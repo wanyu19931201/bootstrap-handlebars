@@ -1,0 +1,44 @@
+#navbarNav {
+  align-items: flex-end;
+  color: red;
+}
+
+.filter {
+  background-color: #aff;
+}
+
+.product-container {
+  background-color: #aaf;
+}
+
+.product-container .row {
+  /* background-color: #cc1; */
+  margin: 0 auto;
+}
+
+
+
+.filter ul li {
+  list-style: none;
+  margin: 10px 0;
+}
+
+.product_img {
+  margin: 0 auto;
+}
+
+.product {
+  /* border: 1px black solid; */
+  text-align: center;
+  padding: 10px;
+
+}
+
+.pages .btn {
+  height: 40px;
+}
+
+.show-pages span {
+  line-height: 40px;
+
+}
